@@ -29,33 +29,6 @@ export const photolist = [
         userName: 'Design11',
         profilePhoto: 'https://randomuser.me/api/portraits/women/4.jpg',
     },
-    // {
-    //     id: 5,
-    //     photoURL: 'https://images.unsplash.com/photo-1666009373153-2a0b883065b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY2ODA5MTU0MA&ixlib=rb-4.0.3&q=80&w=1080',
-    //     description: '',
-    //     userName: '',
-    //     profilePhoto: '',
-    // },
-    // {
-    //     id: 6,
-    //     photoURL: 'https://images.unsplash.com/photo-1666382963735-719eca75c7bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY2ODA5MTUzNw&ixlib=rb-4.0.3&q=80&w=1080',
-    //     description: '',
-    //     userName: '',
-    //     profilePhoto: '',
-    // },
-    // {
-    //     id: 7,
-    //     photoURL: 'https://images.unsplash.com/photo-1666545585688-1e7f52999476?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY2ODA5MTUzNQ&ixlib=rb-4.0.3&q=80&w=1080',
-    //     description: '',
-    //     userName: '',
-    //     profilePhoto: '',
-    // },
-    // {
-    //     id: 8,
-    //     photoURL: 'https://images.unsplash.com/photo-1666668973700-e45696248d3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY2ODA5MTUzMg&ixlib=rb-4.0.3&q=80&w=1080',
-    //     description: '',
-    //     userName: '',
-    //     profilePhoto: '',
-    // },
+  
 
 ]

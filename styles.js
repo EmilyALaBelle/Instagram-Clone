@@ -2,7 +2,7 @@ import { StyleSheet } from "react-native";
 
 const styles = StyleSheet.create({
     feed: {
-        marginTop: 52,
+        // marginTop: 52,
         flex: 1, //take up the entire vertical view
         backgroundColor: 'white',
     },
